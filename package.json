@@ -1,0 +1,28 @@
+{
+  "name": "zap-restful",
+  "version": "1.0.0",
+  "description": "A REST API for interacting with DeFiZaps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/heiho1/zap-restful.git"
+  },
+  "keywords": [
+    "DeFiZap",
+    "ethereum",
+    "REST"
+  ],
+  "author": "heiho1@yahoo.com",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/heiho1/zap-restful/issues"
+  },
+  "homepage": "https://github.com/heiho1/zap-restful#readme",
+  "dependencies": {
+    "ethers": "^4.0.41",
+    "express": "^4.17.1"
+  }
+}
