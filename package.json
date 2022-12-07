@@ -23,6 +23,6 @@
   "homepage": "https://github.com/heiho1/zap-restful#readme",
   "dependencies": {
     "ethers": "^4.0.41",
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
